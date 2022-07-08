@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="left">
+   <img src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" height="225px"/>
+</div>
 
 <!--
 **aleksandrgrigorev/aleksandrgrigorev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
