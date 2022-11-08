@@ -2,9 +2,6 @@
    <img src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" height="225px"/>
 </div>
 
-### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandrgrigorev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr>
 
 ### Contacts:
